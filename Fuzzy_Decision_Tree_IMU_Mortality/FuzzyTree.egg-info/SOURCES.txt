@@ -1,0 +1,10 @@
+README.md
+setup.py
+FuzzyTree/FT_optimize.py
+FuzzyTree/FuzzyTree.py
+FuzzyTree/FuzzyVars.py
+FuzzyTree/__init__.py
+FuzzyTree.egg-info/PKG-INFO
+FuzzyTree.egg-info/SOURCES.txt
+FuzzyTree.egg-info/dependency_links.txt
+FuzzyTree.egg-info/top_level.txt
